@@ -1,0 +1,14 @@
+/Users/jazielperez/workspace/C-SharpProjects/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jazielperez/workspace/C-SharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/Users/jazielperez/workspace/C-SharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/Users/jazielperez/workspace/C-SharpProjects/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/jazielperez/workspace/C-SharpProjects/TestProject/bin/Debug/net8.0/TestProject
+/Users/jazielperez/workspace/C-SharpProjects/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/Users/jazielperez/workspace/C-SharpProjects/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/Users/jazielperez/workspace/C-SharpProjects/TestProject/bin/Debug/net8.0/TestProject.dll
+/Users/jazielperez/workspace/C-SharpProjects/TestProject/bin/Debug/net8.0/TestProject.pdb
+/Users/jazielperez/workspace/C-SharpProjects/TestProject/obj/Debug/net8.0/TestProject.dll
+/Users/jazielperez/workspace/C-SharpProjects/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/Users/jazielperez/workspace/C-SharpProjects/TestProject/obj/Debug/net8.0/TestProject.pdb
+/Users/jazielperez/workspace/C-SharpProjects/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/Users/jazielperez/workspace/C-SharpProjects/TestProject/obj/Debug/net8.0/ref/TestProject.dll
